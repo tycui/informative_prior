@@ -3,9 +3,9 @@ Code for "Informative Bayesian Neural Network Priors for Weak Signals"
 
 ---
 #### Three demos are included:
-- Feature selection task: feature_selection_demo.ipynb
-- Optimizing the hyper-parameters according to prior PVE: learning_pve_demo.ipynb
-- BNN regression with informative prior: BNN_demo.ipynb
+- Feature selection task: `feature_selection_demo.ipynb`
+- Optimizing the hyper-parameters according to prior PVE: `learning_pve_demo.ipynb`
+- BNN regression with informative prior: `BNN_demo.ipynb`
 
 ---
 #### Credits
